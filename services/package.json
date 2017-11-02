@@ -1,0 +1,27 @@
+{
+  "name": "@lab-cotejs/services",
+  "version": "1.0.0",
+  "description": "A test of cotejs library",
+  "main": ".",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LightDiscord/Lab-cotejs.git"
+  },
+  "keywords": [
+    "CoteJS",
+    "Lab",
+    "Services"
+  ],
+  "author": "LightDiscord <contact@lightdiscord.fr> (https://lightdiscord.fr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LightDiscord/Lab-cotejs/issues"
+  },
+  "homepage": "https://github.com/LightDiscord/Lab-cotejs#readme",
+  "dependencies": {
+    "cote": "^0.15.1"
+  }
+}
